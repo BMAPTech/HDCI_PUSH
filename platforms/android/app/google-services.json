@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931151486899",
+    "firebase_url": "https://hdci-2efc8.firebaseio.com",
+    "project_id": "hdci-2efc8",
+    "storage_bucket": "hdci-2efc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931151486899:android:ad069ece186e66c5e475c6",
+        "android_client_info": {
+          "package_name": "com.hdci.hdci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931151486899-k3tcd7sjg1scjkr0bbr6r8jk134to8k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihjDnCVzE7rGa75jz08Znm5MSBA4Pxcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931151486899-k3tcd7sjg1scjkr0bbr6r8jk134to8k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
